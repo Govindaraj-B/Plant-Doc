@@ -2,7 +2,7 @@ html,
 body {
     margin: 0;
     font-size: 100%;
-    background: #fff;
+    background: rgb(217, 243, 70);
 	font-family: 'Thasadith', sans-serif;
 }
 
@@ -46,7 +46,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-	color: #323648;
+	color: #000000;
 }
 li {
     list-style-type: none;
@@ -57,7 +57,7 @@ p {
     font-size: 17px;
     line-height: 2em;
     letter-spacing: 2px;
-    color: #2f5e85;
+    color: #060af7;
     font-weight: 600;
 }
 
@@ -593,7 +593,7 @@ p.about-text {
 	position: relative;
 }
 .blog-info {
-    background: #fff;
+    background: rgb(5, 231, 24);
     padding: 30px;
     margin-top: -2em;
     position: absolute;
